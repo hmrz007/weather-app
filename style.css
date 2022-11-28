@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Dancing+Script:wght@700&family=Lato&family=Lobster&family=Merriweather:ital,wght@1,300&family=Montserrat:wght@300&family=Mulish:wght@200&family=Nabla&family=Passions+Conflict&family=Roboto+Condensed:ital,wght@1,300&family=Roboto+Mono&family=Roboto:ital,wght@0,400;1,300&display=swap');
+
+.main-body img{
+    max-width: 25%;
+    height: 25%;
+    padding: 2px 2px;
+    margin: 4px 0px;
+    
+    
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+}

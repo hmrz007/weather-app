@@ -27,7 +27,7 @@ function displaydata(placeDetails) {
               </div>
   
               <div class="d-flex flex-column text-center mt-5 mb-4">
-                <h6 class="display-4 mb-0 font-weight-bold" style="color: #1C2331;"> ${t.toFixed(2)} </h6>
+                <h6 class="display-4 mb-0 font-weight-bold" style="color: #1C2331;"> ${t.toFixed(2)}°C</h6>
                 <span class="small" style="color: #868B94">Stormy</span>
               </div>
   
